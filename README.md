@@ -1,5 +1,5 @@
 ## Hi im laolibuhuifei 👋
-##welcome to my homepage!
+welcome to my homepage!
 
 <!--
 **laolibuhuifei/laolibuhuifei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
